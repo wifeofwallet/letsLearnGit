@@ -1,1 +1,2 @@
 1. What is Git?
+   - It's a version control system with a central remote repository and many local repositories. A local branch is free to have its own branches and commits history.
