@@ -6,3 +6,5 @@
 
 3. What is HEAD?
    - Head is basically a file which stores the lastet commit of a branch. It changes when branch is switched.
+
+4. What's a branch?
