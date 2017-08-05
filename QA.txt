@@ -8,5 +8,6 @@
    - Head is basically a file which stores the lastet commit of a branch. It changes when branch is switched.
 
 4. What's a branch?
+   - Branch is collection of commits. A repo can have N number of branches. Developers can work on different branches without affecting another deveopers work. Branches are used to create new features or fixing bug without affecting the main branch. Branches are merged into main branch when their work is done.
 
 5. What is reference?
