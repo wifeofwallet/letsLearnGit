@@ -11,3 +11,4 @@
    - Branch is collection of commits. A repo can have N number of branches. Developers can work on different branches without affecting another deveopers work. Branches are used to create new features or fixing bug without affecting the main branch. Branches are merged into main branch when their work is done.
 
 5. What is reference?
+   - References are basically pointers to the commits. .git/refs stores files with branch names and each file contains the lastest commit on that branch.
