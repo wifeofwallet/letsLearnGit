@@ -5,3 +5,4 @@
    - When changes are made to files and added using git add command, they are added to staging area or are indexed which are then ready to be commited.
 
 3. What is HEAD?
+   - Head is basically a file which stores the lastet commit of a branch. It changes when branch is switched.
